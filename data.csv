@@ -1,0 +1,5 @@
+Order ID,Order Time,Order Status, Order Cost , Order Address
+1,2023-02-19 16:38:14,Accepted,98.32,iau
+2,2023-02-19 16:40:01,Rejected,82.8,ON SITE
+3,2023-02-19 16:51:44,Accepted,124.2,ON SITE
+4,2023-02-19 16:51:55,Pending,57.5,ON SITE
